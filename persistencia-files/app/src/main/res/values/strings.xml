@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Persistência Files</string>
+    <string name="salvar">salvar</string>
+    <string name="ler_arquivo">ler arquivo</string>
+    <string name="salvo_com_sucesso">salvo com sucesso</string>
+    <string name="erro_ao_ler_arquivo">erro ao ler arquivo</string>
+    <string name="erro_ao_salvar_arquivo">erro ao salvar arquivo</string>
+</resources>

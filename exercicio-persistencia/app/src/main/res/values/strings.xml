@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercicio Persistência</string>
+    <string name="configura_es">Configurações</string>
+    <string name="rei_da_selva">Rei da Selva</string>
+    <string name="salvar">salvar</string>
+    <string name="exibir_splash">Exibir splash</string>
+    <string name="config_salva">configurações salvas com sucesso</string>
+</resources>
