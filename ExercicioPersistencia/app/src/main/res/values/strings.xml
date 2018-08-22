@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercicio Persistencia</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="exibir_splash">Exibir Splash?</string>
+    <string name="salvar">Salvar</string>
+    <string name="config_salva">Configurações salvas com sucesso</string>
+</resources>
