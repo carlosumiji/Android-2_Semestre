@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login-Teste</string>
+    <string name="usu_rio">Usuário:</string>
+    <string name="senha">Senha:</string>
+    <string name="login">LOGIN</string>
+    <string name="escolha_seu_tema_preferido">Escolha seu tema preferido:</string>
+    <string name="vermelho">Vermelho</string>
+    <string name="azul">Azul</string>
+    <string name="verde">Verde</string>
+    <string name="errou">Errou!!!</string>
+    <string name="sucesso">Login realizado com sucesso</string>
+    <string name="salvar">Salvar</string>
+</resources>
