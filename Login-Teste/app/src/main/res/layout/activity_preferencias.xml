@@ -4,6 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
+    android:id="@+id/llPreferencias"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <TextView
@@ -15,34 +16,39 @@
 
     <RadioGroup
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:id="@+id/rgCores">
 
         <RadioButton
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/vermelho"
             android:layout_marginBottom="8dp"
-            android:textSize="20sp"/>
+            android:textSize="20sp"
+            android:id="@+id/rbVermelho"/>
 
         <RadioButton
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/azul"
             android:layout_marginBottom="8dp"
-            android:textSize="20sp"/>
+            android:textSize="20sp"
+            android:id="@+id/rbAzul"/>
 
         <RadioButton
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/verde"
             android:layout_marginBottom="8dp"
-            android:textSize="20sp"/>
+            android:textSize="20sp"
+            android:id="@+id/rbVerde"/>
 
     </RadioGroup>
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/salvar"/>
+        android:text="@string/salvar"
+        android:onClick= "Salvar"/>
 
 </LinearLayout>
