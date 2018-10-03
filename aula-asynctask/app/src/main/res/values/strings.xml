@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aula AsyncTask</string>
+    <string name="download_imagem">download imagem</string>
+</resources>
